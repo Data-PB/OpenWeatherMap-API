@@ -2,7 +2,7 @@
 
 ## Background
 
-Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
+Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
 ## Analysis
 * As expected, the weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude). More interestingly, however, is the fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere. This may be due to the tilt of the earth.
