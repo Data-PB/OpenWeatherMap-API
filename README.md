@@ -1,4 +1,4 @@
-# Open WeatherMap-API
+# Open Weather Map-API
 
 ## Background
 
