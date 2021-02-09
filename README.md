@@ -22,3 +22,7 @@ There is no strong relationship between latitude and cloudiness. However, it is 
 A heat map that displays the humidity for every city 
 
  ![heatmap](Images/heatmap.png)
+
+* Plotted  hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+
+  ![hotel map](Images/hotel_map.png)
